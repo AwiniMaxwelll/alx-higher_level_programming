@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def _len(list_1=[]):
     length = 0
     for _ in list_1:
