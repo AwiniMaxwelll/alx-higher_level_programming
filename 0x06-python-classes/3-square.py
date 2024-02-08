@@ -5,7 +5,7 @@
 class Square:
     """The body of the square class"""
 
-    def __init__(self, size):
+    def __init__(self, size=0):
         """The constructor of Square class
         Args:
         size (int): The size of the new square.
