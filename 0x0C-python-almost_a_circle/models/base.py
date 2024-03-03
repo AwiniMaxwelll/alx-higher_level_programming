@@ -30,7 +30,7 @@ class Base:
 
     @classmethod
     def save_in_json_form(cls, list_objs):
-        """Save list object to JSON
+        """Save list object to as JSON
         """
         filename = cls.__name__ + ".json"
         with open(filename, "w") as jnfile:
