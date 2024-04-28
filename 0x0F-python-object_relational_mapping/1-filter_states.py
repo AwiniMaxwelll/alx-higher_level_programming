@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""select all states with a name starting with N from the hbtn_0e_0_usa"""
-import mysqldb
+""" select all states with a name starting with N from the hbtn_0e_0_usa """
+import MYSQLdb
 import sys
 
 
